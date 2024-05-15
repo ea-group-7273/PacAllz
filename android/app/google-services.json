@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "655177799426",
+    "project_id": "food-allergen-detector-7273",
+    "storage_bucket": "food-allergen-detector-7273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655177799426:android:22cdba0027d69e3b65541b",
+        "android_client_info": {
+          "package_name": "com.example.foodallergendetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655177799426-k707lgtpgbu43p418ts6blcm1mtfg131.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodallergendetector",
+            "certificate_hash": "18cf0b67a1eccd711c7063b82054dd16295a324a"
+          }
+        },
+        {
+          "client_id": "655177799426-hsaiailg4oqura5aa09evsavgvl8105u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1c1s0hN4O29ItIiK86laX0FbHifPUzZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655177799426-hsaiailg4oqura5aa09evsavgvl8105u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
